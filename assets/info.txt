@@ -1,0 +1,11 @@
+Name: Art_deco_coffee_set
+Version: 2010
+Preview: Yes
+Units: Millimeters
+Dimension: 483.36 x 497.8 x 157.37
+Polys: 99 104
+XForm: No
+Box Trick: No
+Model Parts: 37
+Render: V-Ray
+Formats: 3Ds Max 2010, FBX
